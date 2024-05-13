@@ -40,3 +40,29 @@ color:var(--branco-principal);
 display: block;
 text-decoration:none ;
 }
+
+.container__secundario {
+
+    background-color: transparent;
+    border: 2px solid var(--cinza-secundario);
+}
+
+.container__aviso{
+
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.container__imagem{
+    margin: 1em 0 2em 0;
+}
+
+.container__caixa{
+   margin: 0 6em;
+
+}s
+
+.secundari0{
+   align-items: center;   
+   margin: 0 10em;
+}
